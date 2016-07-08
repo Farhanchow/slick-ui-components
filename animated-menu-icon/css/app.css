@@ -26,7 +26,7 @@ body {
         width: 44px;
         height: 4px;
         border-radius: 4px;
-        background: black;
+        background: white;
         top: calc(50% - 2px);
         left: calc(50% - 22px);
         transition: transform .3s; }
@@ -35,7 +35,7 @@ body {
           width: 44px;
           height: 4px;
           border-radius: 4px;
-          background: red;
+          background: white;
           transition: transform 0.3s, width 0.2s; }
         body > div .trigger span::before {
           content: '';
